@@ -50,289 +50,214 @@ All codes are written cleanly, well-commented, beginner-friendly, and interview-
 - [⚙ Tech Used](#-tech-used)
 - [📬 Contact](#-contact)
  
-
----
-
-## ✅ 📂 Repository Structure  
-Every topic is organized into separate folders/files for easy learning:
-01_Basics/
-02_Patterns/
-03_Arrays/
-04_Strings/
-05_Searching_Sorting/
-06_Recursion/
-07_Backtracking/
-08_Time_Complexity/
-09_Bit_Manipulation/
-10_OOP/
-11_Linked_List/
-12_Stacks_Queues/
-13_ArrayList_Collections/
-14_Trees/
-15_BST/
-16_Heaps_PriorityQueue/
-17_Hashing/
-18_Tries/
-19_Graphs/
-20_Segment_Trees/
-21_Dynamic_Programming/
-
 ---
 
 # ✅ ✅ Complete Topic Coverage
 
-## ✅ 1️⃣ Java Basics
-- Flowcharts & Pseudocode  
-- How Java code runs (Compiler, JVM, Bytecode)  
-- Variables & Datatypes  
-- Taking input (Scanner class) & Output  
-- Operators: Arithmetic, Logical, Assignment  
-- Conditional statements: if, else-if, switch  
-- Loops: for, while, do-while  
-- Break, continue, nested loops  
+---
 
-### ✅ Patterns (over 30 pattern programs)
-✔ Hollow & Filled shapes  
-✔ Number patterns  
-✔ Floyd’s Triangle  
-✔ Butterfly Pattern  
-✔ Rhombus, Diamonds, Pascal  
+# 🧩 Topics Covered
+
+## 1️⃣ Java Basics & Patterns
+✔ Variables, Datatypes, Input/Output  
+✔ Operators & Conditionals  
+✔ Loops (for, while, do-while)  
+✔ Functions, scope, pass-by-value  
+✔ 30+ pattern problems like:
+- Butterfly, Diamond, Rhombus  
+- Floyd’s Triangle  
+- Pascal & Star patterns  
+
+✅ Best for logic building and loops mastery
 
 ---
 
-## ✅ 2️⃣ Arrays + Searching + Sorting
-**Arrays**  
-- Array memory, passing arrays to functions  
-- Max / Min element  
-- Kadane’s Algorithm  
-- Subarray problems  
-- Prefix sum concepts
-
-**Searching**
+## 2️⃣ Arrays, Searching & Sorting
+✔ 1D + 2D arrays  
+✔ Reverse, rotate, duplicates, unique  
+✔ Subarrays & Kadane’s Algorithm  
+✔ Searching  
 - Linear Search  
 - Binary Search  
-- Searching in rotated array  
-
-**Sorting**  
+- Search in rotated array  
+✔ Sorting  
 - Bubble, Selection, Insertion  
-- Count Sort  
-- Merge Sort (Divide & Conquer)  
-- Quick Sort (Pivoting & Partitioning)  
-- Time complexity of sorting algorithms
-
-**2D Arrays**  
-- Matrix traversal  
-- Diagonal sum  
-- Spiral printing  
-- Searching in sorted matrix  
-
-**Strings**
-- Immutable strings, StringBuilder  
-- Palindrome check  
-- Largest / smallest word  
-- Remove duplicates  
-- Anagrams
+- Merge Sort  
+- Quick Sort  
+- Count Sort
 
 ---
 
-## ✅ 3️⃣ Time & Space Complexity
-- Big-O Notation  
-- Common complexities O(1) → O(n²) → O(log n)  
-- Complexity of searching, sorting  
-- Recursion time complexity  
-- Space complexity for recursion & DP
+## 3️⃣ Time & Space Complexity
+✔ Big-O Notation  
+✔ Complexity of recursion, searching, sorting  
+✔ Space complexity basics
 
 ---
 
-## ✅ 4️⃣ Recursion + Backtracking
-**Recursion Programs**
-- Factorial, Fibonacci  
-- Power, fast exponentiation  
-- Reverse string  
-- Subsequence / subsets  
-- Remove duplicates
-
-**Backtracking**
-- N-Queens  
-- Sudoku solver  
-- Maze paths  
-- Rat in a maze  
-- Permutation generation  
-- Backtracking flow explained step-by-step
+## 4️⃣ Recursion & Backtracking
+✔ Factorial, Fibonacci  
+✔ Permutations, Subsets, Subsequences  
+✔ Reverse string/array recursively  
+✔ N-Queens  
+✔ Sudoku Solver  
+✔ Maze paths  
+✔ Backtracking tree explanation included
 
 ---
 
-## ✅ 5️⃣ Bit Manipulation
-- Bitwise AND / OR / XOR / NOT  
-- Set / clear / toggle bit  
-- Count set bits  
-- Check power of 2  
-- Fast exponentiation using bits
+## 5️⃣ Bit Manipulation
+✔ Bitwise operators  
+✔ Set/Clear/Toggle bit  
+✔ Count set bits  
+✔ Power of 2 check  
+✔ Fast exponentiation
 
 ---
 
-## ✅ 6️⃣ Object Oriented Programming (OOP)
-- Classes, Objects, Constructors  
-- Getters/Setters, this keyword  
-- Function overloading  
-- Static variables & functions  
-- Encapsulation, Abstraction  
-- Inheritance (single, multilevel, hybrid)  
-- Polymorphism (compile/run time)  
-- Interfaces, Abstract class  
-- OOP-based questions
+## 6️⃣ Object Oriented Programming
+✔ Classes, Objects, Constructors  
+✔ Getters/Setters, Static keyword  
+✔ Abstraction, Encapsulation  
+✔ Inheritance, Polymorphism  
+✔ Interfaces, Abstract class
 
 ---
 
-## ✅ 7️⃣ Linked List
-- Create Linked List  
-- Insert at head, tail, middle  
-- Delete nodes  
-- Search in LL  
-- Length & middle element  
-- Reverse LL (Iterative + Recursive)  
-- Detect loop (Floyd algorithm)  
-- Merge two sorted lists  
-- Merge sort for LL
+## 7️⃣ Linked List
+✔ Singly Linked List  
+✔ Insert/Delete at head/tail/middle  
+✔ Reverse (iterative & recursive)  
+✔ Detect loop (Floyd Cycle)  
+✔ Merge two lists  
+✔ Merge sort on Linked List
 
 ---
 
-## ✅ 8️⃣ Stacks & Queues
-✔ Stack using Array  
-✔ Stack using Linked List  
-✔ Dynamic Stack  
-✔ Inbuilt Stack (Java Collection)  
-✔ Queue using array  
-✔ Circular Queue  
-✔ Queue using Linked List  
-✔ Priority Queue basics
+## 8️⃣ Stacks & Queues
+✔ Stack using array & linked list  
+✔ Dynamic stack class  
+✔ Queue, Circular queue  
+✔ Queue using linked list  
+✔ Inbuilt Stack/Queue usage  
 
 ---
 
-## ✅ 9️⃣ ArrayList / Collections
-- Add, remove, update  
-- Contains, indexing  
-- Sorting with Collections  
-- Vector vs ArrayList  
-- Multi-dimensional list  
-- Interview problems
+## 9️⃣ ArrayList & Collections
+✔ Dynamic arrays  
+✔ Searching, sorting  
+✔ Multi-dimensional ArrayList  
 
 ---
 
-# ✅ 🔥 Advanced Data Structures
-
-## ✅ 1️⃣ Heaps / Priority Queue
-- Min-Heap, Max-Heap  
-- Insert & Delete operations  
-- Implementation using array  
-- Heap sort  
-- Inbuilt PriorityQueue  
-- K largest elements, nearly sorted arrays
+## 🔥 Heaps & Priority Queue
+✔ Min Heap & Max Heap  
+✔ Insert/Delete operations  
+✔ Heap Sort  
+✔ Priority Queue implementation  
+✔ Inbuilt PriorityQueue examples  
 
 ---
 
-## ✅ 2️⃣ Hashing
-- Hash functions  
-- HashMap – put, get, remove, contains  
-- HashSet – unique elements  
-- Frequency map problems  
-- Intersection & union of arrays  
-- Collision basics
+## 🔥 Hashing
+✔ Hash Functions  
+✔ HashMap / HashSet  
+✔ Frequency map  
+✔ Collision basics  
+✔ Union, intersection, duplicates
 
 ---
 
-## ✅ 3️⃣ Tries (Prefix Trees)
-- Trie node structure  
-- Insert, search, delete word  
-- Word suggestions / autocomplete  
-- Longest prefix problem  
-- Count words
+## 🔥 Tries
+✔ Trie node structure  
+✔ Insert, Search, Delete word  
+✔ Autocomplete logic  
+✔ Word suggestions
 
 ---
 
-## ✅ 4️⃣ Segment Trees
-- Building segment tree  
-- Range minimum / maximum queries  
-- Update queries  
-- Real-world use cases
+## 🔥 Segment Trees
+✔ Build segment tree  
+✔ Range min/max queries  
+✔ Update query  
+✔ Use cases in competitive programming
 
 ---
 
-# ✅ 🌳 Trees & Graphs
+# 🌳 Binary Trees & BST
 
 ## ✅ Binary Trees
-- Build tree  
-- Preorder, Inorder, Postorder traversal  
-- Level order traversal  
-- Height & Diameter  
-- Balanced tree check  
-- LCA of tree  
-- Views: Top, Bottom, Left, Right
+✔ Build tree from input  
+✔ Traversals: Preorder, Inorder, Postorder  
+✔ Level order traversal  
+✔ Height, Diameter  
+✔ Balanced tree check  
+✔ Views (Top, Left, Right, Bottom)  
+✔ Lowest Common Ancestor (LCA)
 
 ## ✅ Binary Search Trees
-- Search, Insert, Delete  
-- Valid BST  
-- Balanced BST  
-- Predecessor & successor  
-- BST from sorted array
+✔ Search, Insert, Delete  
+✔ Balanced BST  
+✔ BST to sorted array  
+✔ Inorder successor & predecessor
 
 ---
 
-## ✅ Graphs – Complete Section
-- Representation (Adjacency List & Matrix)  
-- BFS & DFS  
-- Connected components  
-- Cycle detection (Directed/Undirected)  
-- Topological Sort  
-- Minimum Spanning Tree (MST)  
-- **Kruskal’s Algorithm**  
-- **Prim’s Algorithm**  
-- **Dijkstra’s Shortest Path**  
-- **Bellman-Ford Algorithm**  
-- Shortest path in unweighted graph
+# 🌎 Graphs (Complete Section)
+✔ Representation: Adjacency List + Matrix  
+✔ BFS & DFS  
+✔ Connected components  
+✔ Cycle detection (directed/undirected)  
+✔ Topological sort  
+✔ Shortest path  
+✔ Minimum Spanning Tree  
+✅ Kruskal’s Algorithm  
+✅ Prim’s Algorithm  
+✅ Dijkstra’s Algorithm  
+✅ Bellman-Ford
 
 ---
 
-# ✅ 5️⃣ Dynamic Programming (Major Section)
-- Memoization vs Tabulation  
-- Fibonacci variations  
-- Knapsack (0/1 + unbounded)  
-- Longest Common Subsequence  
-- Edit Distance  
-- Coin change  
-- Matrix Chain Multiplication  
-- Catalan Numbers  
-- DP on Strings, DP on Grid  
-- Many interview-level DP problems
+# 🧠 Dynamic Programming
+✔ Memoization & Tabulation  
+✔ Fibonacci variations  
+✔ 0/1 Knapsack  
+✔ Unbounded Knapsack  
+✔ Longest Common Subsequence  
+✔ Edit Distance  
+✔ Coin Change  
+✔ Matrix Chain Multiplication  
+✔ Catalan Numbers  
+✔ DP on arrays, strings, grids
+
+> ✅ One of the largest and most frequently asked topics in coding interviews
 
 ---
 
-# ✅ ✅ How To Use This Repository
-✔ Open any folder → start from easy to hard  
-✔ Every program is explained with comments  
-✔ Run, modify, and practice variations  
-✔ Perfect for:
-- Placements  
-- Internships  
-- Competitive Coding  
-- Company Interviews (FAANG, Startups, Service Companies)
+# 📌 How To Use
+✅ Open any folder → read code → run & practice  
+✅ Every file includes comments & logic  
+✅ Perfect for:
+- Coding interviews  
+- Competitive programming  
+- Placement preparation  
+- Logical thinking improvement
 
 ---
 
-# ✅ Tech Used
-| Tool | Usage |
-|------|-------|
-| Java | All DSA implementation |
-| VS Code / IntelliJ | Code editor |
-| GitHub | Version control |
+# ⚙ Tech Used
+| Tool | Purpose |
+|------|---------|
+| Java | DSA Implementation |
+| VS Code / IntelliJ | Code Editor |
+| Git & GitHub | Version Control |
 
 ---
 
-# ✅ Author
+# 📬 Contact
 👤 **Tirth Sakariya**  
 📧 Email: **tirthsakariya44@gmail.com**
 
 ---
 
-⭐ _If you like the repository, consider giving it a Star_ ⭐  
-
+<h3 align="center">⭐ If this helped you, consider giving the repository a Star!</h3>
