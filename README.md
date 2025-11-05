@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/DSA-Complete-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Questions-100%2B-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Programs-500%2B-success?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge">
 </p>
 
