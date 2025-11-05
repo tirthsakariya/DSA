@@ -1,6 +1,6 @@
 <h1 align="center">📚 Data Structures & Algorithms in Java</h1>
 <p align="center">
-  <b>100+ DSA Programs | Beginner → Advanced | Interview Focused | Clean & Commented Code</b><br>
+  <b>500+ DSA Programs | Beginner → Advanced | Interview Focused | Clean & Commented Code</b><br>
   Master every important concept of DSA with concise, well-structured Java implementations.
 </p>
 
